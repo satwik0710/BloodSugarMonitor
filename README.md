@@ -41,31 +41,6 @@ Sensors → Data Collection → Arduino → Serial Communication → Python Proc
 
 (Insert your actual results and graphs here)
 
-## 🗂️ Repository Structure
-
-```
-BloodSugarMonitor/
-├── README.md
-├── logo/
-│   └── blood_sugar_logo.txt
-├── hardware/
-│   ├── circuit_diagram.png
-│   └── connections.md
-├── arduino/
-│   └── glucose_monitor.ino
-├── python/
-│   ├── preprocess.py
-│   ├── train_model.py
-│   ├── predict.py
-│   └── requirements.txt
-├── data/
-│   ├── raw/
-│   │   └── sample_raw.csv
-│   └── processed/
-│       └── sample_clean.csv
-└── models/
-    └── glucose_model.pkl
-```
 
 ## 🔧 How to Run
 
